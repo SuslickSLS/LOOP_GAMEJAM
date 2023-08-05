@@ -1,0 +1,36 @@
+https://secrethideout.itch.io/team-wars-platformer-battle (dmitry lixxx, boss)
+https://lucky-loops.itch.io/character-mrcookies (strogo, walking character) - удалить 
+https://gabry-corti.itch.io/fox-hero (strogo, walking character)
+https://pipoya.itch.io/pipoya-free-rpg-character-sprites-32x32 (evelone, skillzor, walking character)
+https://free-game-assets.itch.io/free-horizontal-game-backgrounds (game background)
+https://assetstore.unity.com/packages/2d/characters/monsters-creatures-fantasy-167949 (buster, flying character)
+https://assetstore.unity.com/packages/2d/characters/sunny-land-103349 (location design)
+https://assetstore.unity.com/packages/2d/environments/sunnyland-woods-129708 (location design)
+https://assetstore.unity.com/packages/2d/characters/sunny-land-forest-108124 (location design)
+https://assetstore.unity.com/packages/audio/music/seamless-loop-and-short-music-107732 (music)
+https://pixabay.com/sound-effects/machinegunloopwav-14862/ (machine gun sound)
+https://pixabay.com/sound-effects/office-chair-rolling-69797/ (chair rolling)
+https://pixabay.com/sound-effects/squeaky-office-chair-29285/ (squeaky bed)
+https://pixabay.com/sound-effects/punch-140236/ (punch sound)
+https://pixabay.com/sound-effects/halloween-impact-05-93808/ (scary sound)
+https://www.myinstants.com/en/instant/chipmunk-dying-74215/?utm_source=copy&utm_medium=share (screamer sound)
+
+https://sketchfab.com/3d-models/twitch-lamp-21170b1a94664f2fae7c00c4e2c25577 (twitch lamp)
+https://sketchfab.com/3d-models/police-man-8784442e381541fda18b36dde0e24ada (police man)
+https://sketchfab.com/3d-models/twitch-logo-72de85deef854394abef48cf9ad070e6 (twitch logo)
+https://sketchfab.com/3d-models/house-corridor-interior-720a4c19d2ab471a935057415888ab1d (house corridor)
+https://sketchfab.com/3d-models/streamers-room-fbd9115ed7284f87b53cd1faa40b0580 (streamer's Room)
+https://sketchfab.com/3d-models/low-poly-furnitures-05d29572fef94794803365bdbfd7afa9 (bed)
+https://sketchfab.com/3d-models/animated-window-systems-ffa9e879cdd04c3ba49d894f2f2ef5d3 (window)
+https://polyhaven.com/a/dark_wood (texture)
+
+https://github.com/Voltstro-Studios/UnityWebBrowser (web browser for twitch chat)
+
+https://clips.twitch.tv/AbnegateEndearingKaleBlargNaut-XNbBtIUbWA5ZEIqC (skillzor, death sound)
+https://www.youtube.com/watch?v=z-3BTLpFxsE&t=6s (evelone192, death sound)
+https://youtu.be/Utj7_QYgsms?t=15 (buster, death sound)
+https://youtu.be/YthFYxfCy4M?t=16 (strogo, death sound)
+https://www.youtube.com/watch?v=qd8jH_A3cOw (dmitry_lixx, sound1)
+https://www.youtube.com/watch?v=V2QjmTKa7v0 (dmitry_lixx, sound2)
+
+
