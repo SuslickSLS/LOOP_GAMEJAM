@@ -1,3 +1,6 @@
+#Ссылка на Google Disk
+https://drive.google.com/drive/folders/1h5Dl9U0507f6fZMyWLsMFrQwFENP8aAF?usp=sharing
+
 # LOOP - ИГРА ПРО СТРИМЕРА
 
 Игра состоит из двух частей.
